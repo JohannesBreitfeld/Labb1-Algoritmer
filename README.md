@@ -1,3 +1,6 @@
+[Labb1 Program.cs](https://github.com/JohannesBreitfeld/Labb1-Algoritmer/blob/master/Labb1-Algoritmer/Program.cs)
+
+
 # Labb1 – Hitta tal i sträng med tecken
 Skapa en konsollapplikation som ber användaren mata in en text (string) i konsollen.
 Den inmatade strängen ska sedan sökas igenom efter alla delsträngar som är tal som börjar
