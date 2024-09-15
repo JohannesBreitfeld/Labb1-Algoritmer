@@ -25,7 +25,7 @@ static void PrintNumberStrings(string input)
                     Console.ForegroundColor = ConsoleColor.Red;
                     Console.Write(input[i..(j + 1)]);
                     Console.ForegroundColor = ConsoleColor.Gray;
-                    Console.Write(input[j..(input.Length - 1)]);
+                    Console.Write(input[j+1..input.Length]);
                     Console.WriteLine();
                     break;
                 }
